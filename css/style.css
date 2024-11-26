@@ -411,7 +411,8 @@ table {
   max-width: 68.75rem;
   margin: 0 auto;
   padding: 0 .9375rem;
-  position: relative
+  position: relative;
+  display: block!important
 }
 .ad__slider {
   display: flex;
